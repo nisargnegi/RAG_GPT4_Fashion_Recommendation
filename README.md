@@ -2,6 +2,13 @@
 
 Fashion-RAG is an innovative project that leverages the power of OpenAI's GPT-4, to analyze and provide deep insights into fashion-related data. This project aims to revolutionize the fashion industry by utilizing state-of-the-art AI techniques to understand trends, classify apparel, and predict fashion preferences. Whether you are a fashion enthusiast, a data scientist, or an industry professional, Fashion-RAG offers valuable tools and insights to explore the vast world of fashion data.
 
+Input Image:
+![Alt text](Sample_Input.JPG)
+Output Recommendations:
+![Alt text](Sample_Output.JPG)
+
+
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
